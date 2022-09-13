@@ -50,4 +50,5 @@ img{
 .ty button:hover{
     background: none;
     cursor: pointer;
+    color: crimson;
 }
