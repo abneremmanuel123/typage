@@ -46,9 +46,11 @@ img{
     border-radius: 4px;
     cursor: pointer;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2 );
+    transition: all 0.3s ease;
 }
 .ty button:hover{
     background: none;
     cursor: pointer;
     color: crimson;
+    border-color: crimson;
 }
