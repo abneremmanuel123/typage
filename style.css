@@ -40,6 +40,8 @@ img{
     padding: 10px 0;
     background: crimson;
     color: #fff;
+    margin-bottom: 5px;
+    border-color: #fff;
     outline: none;
     font-size: 18px;
     border-radius: 4px;
